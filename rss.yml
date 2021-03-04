@@ -1,0 +1,174 @@
+#contains all the RSS links along with names
+newsfeeds:
+  "https://anchor.fm/s/7a32d64/podcast/rss" : "Breaking Math"
+  "https://cppcast.com/episode/index.xml" : "CppCast"
+  "https://feeds.fireside.fm/compositional/rss" : "Compositional"
+  "https://omny.fm/shows/curiosity-daily/playlists/podcast.rss" : "Curiosity Daily"
+  "https://feeds.twit.tv/floss.xml" : "FLOSS Weekly"
+  "https://haskellweekly.news/podcast.rss" : "Haskell Weekly"
+  "https://lexfridman.com/feed/podcast/" : "Lex Fridman"
+  "https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml" : "Naked Astronomy"
+  "https://rss.art19.com/planetary-radio-space-exploration-astronomy-and-science" : "Planetary Radio"
+  "https://omny.fm/shows/startalk-radio/playlists/podcast.rss" : "StarTalk Radio"
+  "https://feeds.megaphone.fm/stufftoblowyourmind" : "Stuff To Blow Your Mind"
+  "https://feeds.megaphone.fm/stuffyoushouldknow" : "Stuff You Should Know"
+  "https://podcasts.files.bbci.co.uk/b00snr0w.rss" : "The Infinite Monkey Cage"
+  "https://www.thenakedscientists.com/naked_scientists_podcast.xml" : "The Naked Scientists Podcast"
+  "https://www.numberphile.com/podcast?format=rss" : "The Numberphile"
+  "https://stackoverflow.blog/feed/" : "The Stack Overflow Podcast"
+  "https://twimlai.com/feed" : "The TWIML AI Podcast"
+  "https://feeds.megaphone.fm/PP6777513342" : "Think Again - Big Think "
+  "https://anchor.fm/s/2346986c/podcast/rss" : "Turing Rabbit Holes"
+
+youtube:
+  "UCEJDM_70A2EiRqZ41l6bZlg" : "100SekundenPhysik"
+  "UCYO_jab_esuFRV4b17AJtAw" : "3Blue1Brown" 
+  "UCS0N5baNlQWJCUrhCEo8WlA" : "Ben Eater"
+  "UCMz9lmndR0BEqi70kM_ioyA" : "Ben Kadel"
+  "UCvQECJukTDE2i6aCoMnS-Vg" : "Big Think"
+  "UClIFqsmxnwVNNlsvjH1D1Aw" : "CBT Nuggets"
+  "UCl9StMQ79LtEvlrskzjoYbQ" : "Closer To Truth"
+  "UC9-y-6csu5WGm29I7JiwpnA" : "Computerphile"
+  "UCCezIgC97PvUuR4_gbFUs5g" : "Corey Schafer"
+  "UCP7jMXSY2xbc3KCAE0MHQ-A" : "DeepMind"
+  "UCVls1GmFKf6WlTraIb_IaJg" : "DistroTube"
+  "UCxqAWLTk1CmBvZFPzeZMd9A" : "DoS - Domain of Science"
+  "UCtAIs1VCQrymlAnw3mGonhw" : "Flammable Math"
+  "UCH4BNI0-FOK2dMXoFtViWHw" : "It's Okay To Be Smart"
+  "UCsXVk37bltHxD1rDPwtNM8Q" : "Kurzgesagt – In a Nutshell"
+  "UCd0dc7kQA1FUpJ76o1EjLqQ" : "LeiosOS"
+  "UCSHZKyawb77ixDdsGog4iWA" : "Lex Fridman"
+  "UCFk__1iexL3T5gvGcMpeHNA" : "Looking Glass Universe"
+  "UC2eYFnH61tmytImy1mTYvhA" : "Luke Smith"
+  "UCwtNK3_f99g3mqS36OtoO2w" : "Matthew Salomone"
+  "UCHaF9kM2wn8C3CLRwLkC2GQ" : "Matt Williams"
+  "UC1_uAIS3r8Vu6JjXWvastJg" : "Mathologer"
+  "UCr22xikWUK2yUW4YxOKXclQ" : "MathTheBeautiful"
+  "UCeiYXex_fwgYDonaTcSIk6w" : "MinuteEarth"
+  "UCoxcjq-8xIDTYp3uz647V5A" : "Numberphile"
+  "UCTpmmkp1E4nmZqWPS-dl5bg" : "Quanta Magazine"
+  "UCIyDqfi_cbkp-RU20aBF-MQ" : "Richard E. Borcherds"
+  "UCR1IuLEqb6UEA_zQ81kwXfg" : "Real Engineering"
+  "UCK8XIGR5kRidIw2fWqwyHRA" : "Reducible"
+  "UC1yNl2E66ZzKApQdRuTQ4tw" : "Sabine Hossenfelder"
+  "UCcN3IuIAR6Fn74FWMQf6lFA" : "Science ABC"
+  "UCrMePiHCWG4Vwqv3t7W9EFg" : "SciShow Space"
+  "UCRDDHLvQb8HjE2r7_ZuNtWA" : "Signals Music Studio"
+  "UCnxrdFPXJMeHru_b4Q_vTPQ" : "Simply Explained"
+  "UCvBqzzvUBLCs8Y7Axb-jZew" : "Sixty Symbols"
+  "UC6107grRI4m0o2-emgoDnAA" : "SmarterEveryday"
+  "UCW6TXMZ5Pq6yL6_k5NZ2e0Q" : "Socratica"
+  "UCSju5G2aFaWMqn-_0YBtq5A" : "Stand-up Maths"
+  "UCm5mt-A4w61lknZ9lCsZtBw" : "Steve Brunton"
+  "UCEIwxahdLz7bap-VDs9h35A" : "Steve Mould"
+  "UCAiiOTio8Yu69c3XnR7nQBQ" : "System Crafters"
+  "UCbmNph6atAoGfqLoCL_duAg" : "Talks at Google"
+  "UCBsuOBu-dxj5bx1KMgmar5g" : "TheHappyCat"
+  "UCJbPGzawDH1njbqV-D5HqKw" : "thenewboston"
+  "UCYeF244yNGuFefuFKqxIAXw" : "The Royal Institution"
+  "UC0I9DSyosaahZ18SwyQbjxw" : "Two Minute Music Theory"
+  "UCbfYPyITQ-7l4upoX8nvctg" : "Two Minute Papers"
+  "UCSIvk78tK2TiviLQn4fSHaw" : "Up and Atom"
+  "UCHnyfMqiRRG1u-2MsSQLbXA" : "Veritasium"
+  "UConVfxXodg78Tzh5nNu85Ew" : "Welch Labs"
+  "UC9RM-iSvTu1uPJb8X5yp3EQ" : "Wendover Productions"
+  "UCftwRNsjfRo08xYE31tkiyw" : "WIRED"
+  
+reddit:
+  [AskComputerScience,
+  Caffe2,
+  ControlTheory,
+  DoomEmacs,
+  GraphTheory,
+  GraphicsProgramming,
+  HPC,
+  Hacking_Tutorials,
+  HowToHack,
+  Inkscape,
+  Julia,
+  Latex,
+  Learnmusic,
+  LinearAlgebra,
+  MachineLearning,
+  Musescore,
+  NextCloud,
+  Physics,
+  ProgrammerHumor,
+  Python,
+  QuantumComputing,
+  QuantumPhysics,
+  SQL,
+  TOR,
+  Ubuntu,
+  algotrading,
+  announcements,
+  artificial,
+  bash,
+  blender,
+  cmake,
+  compsci,
+  computerscience,
+  cpp,
+  cpp_questions,
+  crypto,
+  cryptography,
+  cyber_security,
+  cybersecurity,
+  datamining,
+  datascience,
+  datasets,
+  datastructures,
+  deeplearning,
+  devops,
+  docker,
+  emacs,
+  functionalprogramming,
+  geogebra,
+  git,
+  github,
+  hacking,
+  haskell,
+  haskelltil,
+  homelab,
+  learnmachinelearning,
+  learnprogramming,
+  learnpython,
+  linux,
+  linux,
+  linuxmasterrace,
+  linuxquestions,
+  lisp,
+  lmms,
+  manim,
+  neovim,
+  netsecstudents,
+  networking,
+  orgmode,
+  programming,
+  programmingLanguages,
+  pytorch,
+  quantum,
+  qutebrowser,
+  ranger,
+  raspberry_pi,
+  selfhosted,
+  signal,
+  stats,
+  suckless,
+  svg,
+  tails,
+  techsupport,
+  tutanota,
+  unix,
+  vim,
+  vimplugins,
+  visualization,
+  vscode,
+  zsh]
+  
+github:
+
+gitlab:
+
+bitbucket:
+
