@@ -2,4 +2,11 @@
 + Install newsboat
 #+BEGIN_SRC shell
 sudo apt install newsboat
+cd ~/.newsboat
 #+END_SRC
++ Enter the the rss links in =rss.yml= file
++ Run the python script to convert =rss.yml= to =urls=
+#+BEGIN_SRC shell
+python rss2urls.py
+#+END_SRC
++ =config= file contains the configuration for /newsboat/ which can be tweaked
