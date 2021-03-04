@@ -1,0 +1,5 @@
+* newsboat-config
++ Install newsboat
+#+BEGIN_SRC shell
+sudo apt install newsboat
+#+END_SRC
