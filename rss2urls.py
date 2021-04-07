@@ -13,13 +13,9 @@ class urlsRSS:
     ----------
     ymlfile : str
         A yaml file containing the rss links and metadata
-
-    urlfile : str
-        A file to dump the contents
     """
-    def __init__(self, ymlfile: str, urlfile: str) -> None:
+    def __init__(self, ymlfile: str) -> None:
         self.ymlfile = ymlfile
-        self.urlfile = urlfile
         self.loadRSS()
 
     def loadRSS(self) -> None:
@@ -29,11 +25,11 @@ class urlsRSS:
         with open(self.ymlfile, 'r') as f:
             self.content = yaml.load(f, yaml.FullLoader)
 
-    def dumpRSS(self) -> None:
+    def dumpRSS(self, urlfile) -> None:
         """
         Dumps the contents to a file
         """
-        with open(self.urlfile, 'w') as g:
+        with open(urlfile, 'w') as g:
             g.write("###############################################\n")
             g.write("# RSS FEEDS\n")
             g.write("###############################################\n\n")
@@ -73,8 +69,8 @@ def main():
     main file
     """
     urlfile = 'urls'
-    a = urlsRSS(yml_file, urlfile)
-    a.dumpRSS()
+    a = urlsRSS(yml_file)
+    a.dumpRSS(urlfile)
 
 
 if __name__ == "__main__":
