@@ -1,175 +1,913 @@
-#contains all the RSS links along with names
-newsfeeds:
-  "https://anchor.fm/s/7a32d64/podcast/rss" : "Breaking Math"
-  "https://cppcast.com/episode/index.xml" : "CppCast"
-  "https://feeds.fireside.fm/compositional/rss" : "Compositional"
-  "https://omny.fm/shows/curiosity-daily/playlists/podcast.rss" : "Curiosity Daily"
-  "https://feeds.twit.tv/floss.xml" : "FLOSS Weekly"
-  "https://haskellweekly.news/podcast.rss" : "Haskell Weekly"
-  "https://lexfridman.com/feed/podcast/" : "Lex Fridman"
-  "https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml" : "Naked Astronomy"
-  "https://rss.art19.com/planetary-radio-space-exploration-astronomy-and-science" : "Planetary Radio"
-  "https://omny.fm/shows/startalk-radio/playlists/podcast.rss" : "StarTalk Radio"
-  "https://feeds.megaphone.fm/stufftoblowyourmind" : "Stuff To Blow Your Mind"
-  "https://feeds.megaphone.fm/stuffyoushouldknow" : "Stuff You Should Know"
-  "https://podcasts.files.bbci.co.uk/b00snr0w.rss" : "The Infinite Monkey Cage"
-  "https://www.thenakedscientists.com/naked_scientists_podcast.xml" : "The Naked Scientists Podcast"
-  "https://www.numberphile.com/podcast?format=rss" : "The Numberphile"
-  "https://stackoverflow.blog/feed/" : "The Stack Overflow Podcast"
-  "https://twimlai.com/feed" : "The TWIML AI Podcast"
-  "https://feeds.megaphone.fm/PP6777513342" : "Think Again - Big Think "
-  "https://anchor.fm/s/2346986c/podcast/rss" : "Turing Rabbit Holes"
+# contains all the RSS links along with names
 
-youtube:
-  "UCEJDM_70A2EiRqZ41l6bZlg" : "100SekundenPhysik"
-  "UCYO_jab_esuFRV4b17AJtAw" : "3Blue1Brown" 
-  "UCS0N5baNlQWJCUrhCEo8WlA" : "Ben Eater"
-  "UCMz9lmndR0BEqi70kM_ioyA" : "Ben Kadel"
-  "UCvQECJukTDE2i6aCoMnS-Vg" : "Big Think"
-  "UClIFqsmxnwVNNlsvjH1D1Aw" : "CBT Nuggets"
-  "UCl9StMQ79LtEvlrskzjoYbQ" : "Closer To Truth"
-  "UC9-y-6csu5WGm29I7JiwpnA" : "Computerphile"
-  "UCCezIgC97PvUuR4_gbFUs5g" : "Corey Schafer"
-  "UCP7jMXSY2xbc3KCAE0MHQ-A" : "DeepMind"
-  "UCVls1GmFKf6WlTraIb_IaJg" : "DistroTube"
-  "UCxqAWLTk1CmBvZFPzeZMd9A" : "DoS - Domain of Science"
-  "UCtAIs1VCQrymlAnw3mGonhw" : "Flammable Math"
-  "UCH4BNI0-FOK2dMXoFtViWHw" : "It's Okay To Be Smart"
-  "UCsXVk37bltHxD1rDPwtNM8Q" : "Kurzgesagt – In a Nutshell"
-  "UCd0dc7kQA1FUpJ76o1EjLqQ" : "LeiosOS"
-  "UCSHZKyawb77ixDdsGog4iWA" : "Lex Fridman"
-  "UCFk__1iexL3T5gvGcMpeHNA" : "Looking Glass Universe"
-  "UC2eYFnH61tmytImy1mTYvhA" : "Luke Smith"
-  "UCwtNK3_f99g3mqS36OtoO2w" : "Matthew Salomone"
-  "UCHaF9kM2wn8C3CLRwLkC2GQ" : "Matt Williams"
-  "UC1_uAIS3r8Vu6JjXWvastJg" : "Mathologer"
-  "UCr22xikWUK2yUW4YxOKXclQ" : "MathTheBeautiful"
-  "UCeiYXex_fwgYDonaTcSIk6w" : "MinuteEarth"
-  "UCoxcjq-8xIDTYp3uz647V5A" : "Numberphile"
-  "UCTpmmkp1E4nmZqWPS-dl5bg" : "Quanta Magazine"
-  "UCIyDqfi_cbkp-RU20aBF-MQ" : "Richard E. Borcherds"
-  "UCR1IuLEqb6UEA_zQ81kwXfg" : "Real Engineering"
-  "UCK8XIGR5kRidIw2fWqwyHRA" : "Reducible"
-  "UC1yNl2E66ZzKApQdRuTQ4tw" : "Sabine Hossenfelder"
-  "UCcN3IuIAR6Fn74FWMQf6lFA" : "Science ABC"
-  "UCrMePiHCWG4Vwqv3t7W9EFg" : "SciShow Space"
-  "UCRDDHLvQb8HjE2r7_ZuNtWA" : "Signals Music Studio"
-  "UCnxrdFPXJMeHru_b4Q_vTPQ" : "Simply Explained"
-  "UCvBqzzvUBLCs8Y7Axb-jZew" : "Sixty Symbols"
-  "UC6107grRI4m0o2-emgoDnAA" : "SmarterEveryday"
-  "UCW6TXMZ5Pq6yL6_k5NZ2e0Q" : "Socratica"
-  "UCSju5G2aFaWMqn-_0YBtq5A" : "Stand-up Maths"
-  "UCm5mt-A4w61lknZ9lCsZtBw" : "Steve Brunton"
-  "UCEIwxahdLz7bap-VDs9h35A" : "Steve Mould"
-  "UCAiiOTio8Yu69c3XnR7nQBQ" : "System Crafters"
-  "UCbmNph6atAoGfqLoCL_duAg" : "Talks at Google"
-  "UCBsuOBu-dxj5bx1KMgmar5g" : "TheHappyCat"
-  "UCJbPGzawDH1njbqV-D5HqKw" : "thenewboston"
-  "UCYeF244yNGuFefuFKqxIAXw" : "The Royal Institution"
-  "UC0I9DSyosaahZ18SwyQbjxw" : "Two Minute Music Theory"
-  "UCbfYPyITQ-7l4upoX8nvctg" : "Two Minute Papers"
-  "UCSIvk78tK2TiviLQn4fSHaw" : "Up and Atom"
-  "UCHnyfMqiRRG1u-2MsSQLbXA" : "Veritasium"
-  "UConVfxXodg78Tzh5nNu85Ew" : "Welch Labs"
-  "UC9RM-iSvTu1uPJb8X5yp3EQ" : "Wendover Productions"
-  "UCftwRNsjfRo08xYE31tkiyw" : "WIRED"
-  
-reddit:
-  [AskComputerScience,
-  Caffe2,
-  ControlTheory,
-  DoomEmacs,
-  GraphTheory,
-  GraphicsProgramming,
-  HPC,
-  Hacking_Tutorials,
-  HowToHack,
-  Inkscape,
-  Julia,
-  Latex,
-  Learnmusic,
-  LinearAlgebra,
-  MachineLearning,
-  Musescore,
-  NextCloud,
-  Physics,
-  ProgrammerHumor,
-  Python,
-  QuantumComputing,
-  QuantumPhysics,
-  SQL,
-  TOR,
-  Ubuntu,
-  algotrading,
-  announcements,
-  artificial,
-  bash,
-  blender,
-  cmake,
-  compsci,
-  computerscience,
-  cpp,
-  cpp_questions,
-  crypto,
-  cryptography,
-  cyber_security,
-  cybersecurity,
-  datamining,
-  datascience,
-  datasets,
-  datastructures,
-  deeplearning,
-  devops,
-  docker,
-  emacs,
-  functionalprogramming,
-  geogebra,
-  git,
-  github,
-  hacking,
-  haskell,
-  haskelltil,
-  homelab,
-  learnmachinelearning,
-  learnprogramming,
-  learnpython,
-  linux,
-  linux,
-  linuxmasterrace,
-  linuxquestions,
-  lisp,
-  lmms,
-  manim,
-  neovim,
-  netsecstudents,
-  networking,
-  orgmode,
-  programming,
-  programmingLanguages,
-  pytorch,
-  quantum,
-  qutebrowser,
-  ranger,
-  raspberry_pi,
-  selfhosted,
-  signal,
-  statistics,
-  stats,
-  suckless,
-  svg,
-  tails,
-  techsupport,
-  tutanota,
-  unix,
-  vim,
-  vimplugins,
-  visualization,
-  vscode,
-  zsh]
-  
-github:
+########################################################################
+########################################################################
+# General
+########################################################################
+########################################################################
 
-gitlab:
+"https://9to5linux.com/feed":
+  name: "9 to 5 Linux"
+  type: "general"
+  tags: ["linux", ]
 
-bitbucket:
+"https://anchor.fm/s/7a32d64/podcast/rss":
+  name: "Breaking Math"
+  type: "general"
+  tags: ["math", "podcast", ]
+
+"https://cppcast.com/episode/index.xml":
+  name: "CppCast"
+  type: "general"
+  tags: ["progamming", "cpp", "podcast", ]
+
+"https://feeds.fireside.fm/compositional/rss":
+  name: "Compositional"
+  type: "general"
+  tags: ["podcast", "programming", "haskell", ]
+
+"https://omny.fm/shows/curiosity-daily/playlists/podcast.rss":
+  name: "Curiosity Daily"
+  type: "general"
+  tags: []
+
+"https://feeds.twit.tv/floss.xml":
+  name: "FLOSS Weekly"
+  type: "general"
+  tags: []
+
+"https://haskellweekly.news/podcast.rss":
+  name: "Haskell Weekly"
+  type: "general"
+  tags: []
+
+"https://itsfoss.com/rss":
+  name: "It's FOSS'"
+  type: "general"
+  tags: []
+
+"https://lexfridman.com/feed/podcast/":
+  name: "Lex Fridman"
+  type: "general"
+  tags: []
+
+"https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml":
+  name: "Naked Astronomy"
+  type: "general"
+  tags: []
+
+"https://omgubuntu.co.uk/feed":
+  name: "OMG Ubuntu"
+  type: "general"
+  tags: []
+
+"https://rss.art19.com/planetary-radio-space-exploration-astronomy-and-science":
+  name: "Planetary Radio"
+  type: "general"
+  tags: []
+
+"https://omny.fm/shows/startalk-radio/playlists/podcast.rss":
+  name: "StarTalk Radio"
+  type: "general"
+  tags: []
+
+"https://feeds.megaphone.fm/stufftoblowyourmind":
+  name: "Stuff To Blow Your Mind"
+  type: "general"
+  tags: []
+
+"https://feeds.megaphone.fm/stuffyoushouldknow":
+  name: "Stuff You Should Know"
+  type: "general"
+  tags: []
+
+"https://podcasts.files.bbci.co.uk/b00snr0w.rss":
+  name: "The Infinite Monkey Cage"
+  type: "general"
+  tags: []
+
+"https://www.thenakedscientists.com/naked_scientists_podcast.xml":
+  name: "The Naked Scientists Podcast"
+  type: "general"
+  tags: []
+
+"https://www.numberphile.com/podcast?format=rss":
+  name: "The Numberphile"
+  type: "general"
+  tags: []
+
+"https://stackoverflow.blog/feed/":
+  name: "The Stack Overflow Podcast"
+  type: "general"
+  tags: []
+
+"https://twimlai.com/feed":
+  name: "The TWIML AI Podcast"
+  type: "general"
+  tags: []
+
+"https://feeds.megaphone.fm/PP6777513342":
+  name: "Think Again - Big Think "
+  type: "general"
+  tags: []
+
+"https://anchor.fm/s/2346986c/podcast/rss":
+  name: "Turing Rabbit Holes"
+  type: "general"
+  tags: []
+
+"https://www.wired.com/category/science/feed":
+  name: "WIRED | Science"
+  type: "general"
+  tags: []
+
+"https://news.ycombinator.com/rss":
+  name: "Hacker News - ycombinator"
+  type: "general"
+  tags: []
+
+
+#######################################################################
+#######################################################################
+# ytlinks
+#######################################################################
+#######################################################################
+
+"UCEJDM_70A2EiRqZ41l6bZlg":
+  name: "100SekundenPhysik"
+  type: "youtube"
+  tags: []
+
+"UCeUJFQ0D9qs6aVNyUt9fkeQ":
+  name: "Armchair Historian"
+  type: "youtube"
+  tags: []
+
+"UCYO_jab_esuFRV4b17AJtAw":
+  name: "3Blue1Brown" 
+  type: "youtube"
+  tags: []
+
+"UCS0N5baNlQWJCUrhCEo8WlA":
+  name: "Ben Eater"
+  type: "youtube"
+  tags: []
+
+"UCMz9lmndR0BEqi70kM_ioyA":
+  name: "Ben Kadel"
+  type: "youtube"
+  tags: []
+
+"UCvQECJukTDE2i6aCoMnS-Vg":
+  name: "Big Think"
+  type: "youtube"
+  tags: []
+
+"UClIFqsmxnwVNNlsvjH1D1Aw":
+  name: "CBT Nuggets"
+  type: "youtube"
+  tags: []
+
+"UCl9StMQ79LtEvlrskzjoYbQ":
+  name: "Closer To Truth"
+  type: "youtube"
+  tags: []
+
+"UC9-y-6csu5WGm29I7JiwpnA":
+  name: "Computerphile"
+  type: "youtube"
+  tags: []
+
+"UCCezIgC97PvUuR4_gbFUs5g":
+  name: "Corey Schafer"
+  type: "youtube"
+  tags: []
+
+"UCP7jMXSY2xbc3KCAE0MHQ-A":
+  name: "DeepMind"
+  type: "youtube"
+  tags: []
+
+"UCVls1GmFKf6WlTraIb_IaJg":
+  name: "DistroTube"
+  type: "youtube"
+  tags: []
+
+"UCxqAWLTk1CmBvZFPzeZMd9A":
+  name: "DoS - Domain of Science"
+  type: "youtube"
+  tags: []
+
+"UCtAIs1VCQrymlAnw3mGonhw":
+  name: "Flammable Math"
+  type: "youtube"
+  tags: []
+
+"UCH4BNI0-FOK2dMXoFtViWHw":
+  name: "It's Okay To Be Smart"
+  type: "youtube"
+  tags: []
+
+"UCe6ABcJkH_Gso9HJOt4x9fg":
+  name: "Jack of Some"
+  type: "youtube"
+  tags: []
+
+"UCsXVk37bltHxD1rDPwtNM8Q":
+  name: "Kurzgesagt – In a Nutshell"
+  type: "youtube"
+  tags: []
+
+"UCd0dc7kQA1FUpJ76o1EjLqQ":
+  name: "LeiosOS"
+  type: "youtube"
+  tags: []
+
+"UCSHZKyawb77ixDdsGog4iWA":
+  name: "Lex Fridman"
+  type: "youtube"
+  tags: []
+
+"UCFk__1iexL3T5gvGcMpeHNA":
+  name: "Looking Glass Universe"
+  type: "youtube"
+  tags: []
+
+"UC2eYFnH61tmytImy1mTYvhA":
+  name: "Luke Smith"
+  type: "youtube"
+  tags: []
+
+"UCwtNK3_f99g3mqS36OtoO2w":
+  name: "Matthew Salomone"
+  type: "youtube"
+  tags: []
+
+"UCHaF9kM2wn8C3CLRwLkC2GQ":
+  name: "Matt Williams"
+  type: "youtube"
+  tags: []
+
+"UC1_uAIS3r8Vu6JjXWvastJg":
+  name: "Mathologer"
+  type: "youtube"
+  tags: []
+
+"UCr22xikWUK2yUW4YxOKXclQ":
+  name: "MathTheBeautiful"
+  type: "youtube"
+  tags: []
+
+"UCaiL2GDNpLYH6Wokkk1VNcg":
+  name: "Mcoding"
+  type: "youtube"
+  tags: []
+
+"UCeiYXex_fwgYDonaTcSIk6w":
+  name: "MinuteEarth"
+  type: "youtube"
+  tags: []
+
+"UCoxcjq-8xIDTYp3uz647V5A":
+  name: "Numberphile"
+  type: "youtube"
+  tags: []
+
+"UCTpmmkp1E4nmZqWPS-dl5bg":
+  name: "Quanta Magazine"
+  type: "youtube"
+  tags: []
+
+"UCIyDqfi_cbkp-RU20aBF-MQ":
+  name: "Richard E. Borcherds"
+  type: "youtube"
+  tags: []
+
+"UCR1IuLEqb6UEA_zQ81kwXfg":
+  name: "Real Engineering"
+  type: "youtube"
+  tags: []
+
+"UCK8XIGR5kRidIw2fWqwyHRA":
+  name: "Reducible"
+  type: "youtube"
+  tags: []
+
+"UC1yNl2E66ZzKApQdRuTQ4tw":
+  name: "Sabine Hossenfelder"
+  type: "youtube"
+  tags: []
+
+"UCcN3IuIAR6Fn74FWMQf6lFA":
+  name: "Science ABC"
+  type: "youtube"
+  tags: []
+
+"UCrMePiHCWG4Vwqv3t7W9EFg":
+  name: "SciShow Space"
+  type: "youtube"
+  tags: []
+
+"UCRDDHLvQb8HjE2r7_ZuNtWA":
+  name: "Signals Music Studio"
+  type: "youtube"
+  tags: []
+
+"UCnxrdFPXJMeHru_b4Q_vTPQ":
+  name: "Simply Explained"
+  type: "youtube"
+  tags: []
+
+"UCvBqzzvUBLCs8Y7Axb-jZew":
+  name: "Sixty Symbols"
+  type: "youtube"
+  tags: []
+
+"UC6107grRI4m0o2-emgoDnAA":
+  name: "SmarterEveryday"
+  type: "youtube"
+  tags: []
+
+"UCW6TXMZ5Pq6yL6_k5NZ2e0Q":
+  name: "Socratica"
+  type: "youtube"
+  tags: []
+
+"UCSju5G2aFaWMqn-_0YBtq5A":
+  name: "Stand-up Maths"
+  type: "youtube"
+  tags: []
+
+"UCm5mt-A4w61lknZ9lCsZtBw":
+  name: "Steve Brunton"
+  type: "youtube"
+  tags: []
+
+"UCEIwxahdLz7bap-VDs9h35A":
+  name: "Steve Mould"
+  type: "youtube"
+  tags: []
+
+"UCAiiOTio8Yu69c3XnR7nQBQ":
+  name: "System Crafters"
+  type: "youtube"
+  tags: []
+
+"UCbmNph6atAoGfqLoCL_duAg":
+  name: "Talks at Google"
+  type: "youtube"
+  tags: []
+
+"UCjSEJkpGbcZhvo0lr-44X_w":
+  name: "TechHut"
+  type: "youtube"
+  tags: []
+
+"UCBsuOBu-dxj5bx1KMgmar5g":
+  name: "TheHappyCat"
+  type: "youtube"
+  tags: []
+
+"UC8ENHE5xdFSwx71u3fDH5Xw":
+  name: "ThePrimeagen"
+  type: "youtube"
+  tags: []
+
+"UCJbPGzawDH1njbqV-D5HqKw":
+  name: "thenewboston"
+  type: "youtube"
+  tags: []
+
+"UCQ-W1KE9EYfdxhL6S4twUNw":
+  name: "The Cherno"
+  type: "youtube"
+  tags: []
+
+"UCYeF244yNGuFefuFKqxIAXw":
+  name: "The Royal Institution"
+  type: "youtube"
+  tags: []
+
+"UC0I9DSyosaahZ18SwyQbjxw":
+  name: "Two Minute Music Theory"
+  type: "youtube"
+  tags: []
+
+"UCbfYPyITQ-7l4upoX8nvctg":
+  name: "Two Minute Papers"
+  type: "youtube"
+  tags: []
+
+"UCSIvk78tK2TiviLQn4fSHaw":
+  name: "Up and Atom"
+  type: "youtube"
+  tags: []
+
+"UCHnyfMqiRRG1u-2MsSQLbXA":
+  name: "Veritasium"
+  type: "youtube"
+  tags: []
+
+"UConVfxXodg78Tzh5nNu85Ew":
+  name: "Welch Labs"
+  type: "youtube"
+  tags: []
+
+"UC9RM-iSvTu1uPJb8X5yp3EQ":
+  name: "Wendover Productions"
+  type: "youtube"
+  tags: []
+
+"UCftwRNsjfRo08xYE31tkiyw":
+  name: "WIRED"
+  type: "youtube"
+  tags: []
+
+
+
+#######################################################################
+#######################################################################
+# rtlinks
+#######################################################################
+#######################################################################
+
+"AskComputerScience":
+  name: "AskComputerScience"
+  type: "reddit"
+  tags: []
+
+"Caffe2":
+  name: "Caffe2"
+  type: "reddit"
+  tags: []
+
+"ControlTheory":
+  name: "ControlTheory"
+  type: "reddit"
+  tags: []
+
+"DoomEmacs":
+  name: "DoomEmacs"
+  type: "reddit"
+  tags: []
+
+"GraphTheory":
+  name: "GraphTheory"
+  type: "reddit"
+  tags: []
+
+"GraphicsProgramming":
+  name: "GraphicsProgramming"
+  type: "reddit"
+  tags: []
+
+"HPC":
+  name: "HPC"
+  type: "reddit"
+  tags: []
+
+"Hacking_Tutorials":
+  name: "Hacking_Tutorials"
+  type: "reddit"
+  tags: []
+
+"HowToHack":
+  name: "HowToHack"
+  type: "reddit"
+  tags: []
+
+"Inkscape":
+  name: "Inkscape"
+  type: "reddit"
+  tags: []
+
+"Julia":
+  name: "Julia"
+  type: "reddit"
+  tags: []
+
+"Latex":
+  name: "Latex"
+  type: "reddit"
+  tags: []
+
+"Learnmusic":
+  name: "Learnmusic"
+  type: "reddit"
+  tags: []
+
+"LinearAlgebra":
+  name: "LinearAlgebra"
+  type: "reddit"
+  tags: []
+
+"MachineLearning":
+  name: "MachineLearning"
+  type: "reddit"
+  tags: []
+
+"Musescore":
+  name: "Musescore"
+  type: "reddit"
+  tags: []
+
+"NextCloud":
+  name: "NextCloud"
+  type: "reddit"
+  tags: []
+
+"Physics":
+  name: "Physics"
+  type: "reddit"
+  tags: []
+
+"ProgrammerHumor":
+  name: "ProgrammerHumor"
+  type: "reddit"
+  tags: []
+
+"Python":
+  name: "Python"
+  type: "reddit"
+  tags: []
+
+"QuantumComputing":
+  name: "QuantumComputing"
+  type: "reddit"
+  tags: []
+
+"QuantumPhysics":
+  name: "QuantumPhysics"
+  type: "reddit"
+  tags: []
+
+"SQL":
+  name: "SQL"
+  type: "reddit"
+  tags: []
+
+"TOR":
+  name: "TOR"
+  type: "reddit"
+  tags: []
+
+"Ubuntu":
+  name: "Ubuntu"
+  type: "reddit"
+  tags: []
+
+"algotrading":
+  name: "algotrading"
+  type: "reddit"
+  tags: []
+
+"announcements":
+  name: "announcements"
+  type: "reddit"
+  tags: []
+
+"artificial":
+  name: "artificial"
+  type: "reddit"
+  tags: []
+
+"bash":
+  name: "bash"
+  type: "reddit"
+  tags: []
+
+"blender":
+  name: "blender"
+  type: "reddit"
+  tags: []
+
+"cmake":
+  name: "cmake"
+  type: "reddit"
+  tags: []
+
+"compsci":
+  name: "compsci"
+  type: "reddit"
+  tags: []
+
+"computerscience":
+  name: "computerscience"
+  type: "reddit"
+  tags: []
+
+"cpp":
+  name: "cpp"
+  type: "reddit"
+  tags: []
+
+"cpp_questions":
+  name: "cpp_questions"
+  type: "reddit"
+  tags: []
+
+"crypto":
+  name: "crypto"
+  type: "reddit"
+  tags: []
+
+"cryptography":
+  name: "cryptography"
+  type: "reddit"
+  tags: []
+
+"cyber_security":
+  name: "cyber_security"
+  type: "reddit"
+  tags: []
+
+"cybersecurity":
+  name: "cybersecurity"
+  type: "reddit"
+  tags: []
+
+"datamining":
+  name: "datamining"
+  type: "reddit"
+  tags: []
+
+"datascience":
+  name: "datascience"
+  type: "reddit"
+  tags: []
+
+"datasets":
+  name: "datasets"
+  type: "reddit"
+  tags: []
+
+"datastructures":
+  name: "datastructures"
+  type: "reddit"
+  tags: []
+
+"deeplearning":
+  name: "deeplearning"
+  type: "reddit"
+  tags: []
+
+"devops":
+  name: "devops"
+  type: "reddit"
+  tags: []
+
+"docker":
+  name: "docker"
+  type: "reddit"
+  tags: []
+
+"emacs":
+  name: "emacs"
+  type: "reddit"
+  tags: []
+
+"functionalprogramming":
+  name: "functionalprogramming"
+  type: "reddit"
+  tags: []
+
+"geogebra":
+  name: "geogebra"
+  type: "reddit"
+  tags: []
+
+"git":
+  name: "git"
+  type: "reddit"
+  tags: []
+
+"github":
+  name: "github"
+  type: "reddit"
+  tags: []
+
+"hacking":
+  name: "hacking"
+  type: "reddit"
+  tags: []
+
+"haskell":
+  name: "haskell"
+  type: "reddit"
+  tags: []
+
+"haskelltil":
+  name: "haskelltil"
+  type: "reddit"
+  tags: []
+
+"homelab":
+  name: "homelab"
+  type: "reddit"
+  tags: []
+
+"learnmachinelearning":
+  name: "learnmachinelearning"
+  type: "reddit"
+  tags: []
+
+"learnprogramming":
+  name: "learnprogramming"
+  type: "reddit"
+  tags: []
+
+"learnpython":
+  name: "learnpython"
+  type: "reddit"
+  tags: []
+
+"linux":
+  name: "linux"
+  type: "reddit"
+  tags: []
+
+"linux":
+  name: "linux"
+  type: "reddit"
+  tags: []
+
+"linuxmasterrace":
+  name: "linuxmasterrace"
+  type: "reddit"
+  tags: []
+
+"linuxquestions":
+  name: "linuxquestions"
+  type: "reddit"
+  tags: []
+
+"lisp":
+  name: "lisp"
+  type: "reddit"
+  tags: []
+
+"lmms":
+  name: "lmms"
+  type: "reddit"
+  tags: []
+
+"manim":
+  name: "manim"
+  type: "reddit"
+  tags: []
+
+"neovim":
+  name: "neovim"
+  type: "reddit"
+  tags: []
+
+"netsecstudents":
+  name: "netsecstudents"
+  type: "reddit"
+  tags: []
+
+"networking":
+  name: "networking"
+  type: "reddit"
+  tags: []
+
+"orgmode":
+  name: "orgmode"
+  type: "reddit"
+  tags: []
+
+"programming":
+  name: "programming"
+  type: "reddit"
+  tags: []
+
+"programmingLanguages":
+  name: "programmingLanguages"
+  type: "reddit"
+  tags: []
+
+"pytorch":
+  name: "pytorch"
+  type: "reddit"
+  tags: []
+
+"quantum":
+  name: "quantum"
+  type: "reddit"
+  tags: []
+
+"qutebrowser":
+  name: "qutebrowser"
+  type: "reddit"
+  tags: []
+
+"ranger":
+  name: "ranger"
+  type: "reddit"
+  tags: []
+
+"raspberry_pi":
+  name: "raspberry_pi"
+  type: "reddit"
+  tags: []
+
+"selfhosted":
+  name: "selfhosted"
+  type: "reddit"
+  tags: []
+
+"signal":
+  name: "signal"
+  type: "reddit"
+  tags: []
+
+"statistics":
+  name: "statistics"
+  type: "reddit"
+  tags: []
+
+"stats":
+  name: "stats"
+  type: "reddit"
+  tags: []
+
+"suckless":
+  name: "suckless"
+  type: "reddit"
+  tags: []
+
+"svg":
+  name: "svg"
+  type: "reddit"
+  tags: []
+
+"tails":
+  name: "tails"
+  type: "reddit"
+  tags: []
+
+"techsupport":
+  name: "techsupport"
+  type: "reddit"
+  tags: []
+
+"tutanota":
+  name: "tutanota"
+  type: "reddit"
+  tags: []
+
+"unix":
+  name: "unix"
+  type: "reddit"
+  tags: []
+
+"vim":
+  name: "vim"
+  type: "reddit"
+  tags: []
+
+"vimplugins":
+  name: "vimplugins"
+  type: "reddit"
+  tags: []
+
+"visualization":
+  name: "visualization"
+  type: "reddit"
+  tags: []
+
+"vscode":
+  name: "vscode"
+  type: "reddit"
+  tags: []
+
+"zsh":
+  name: "zsh"
+  type: "reddit"
+  tags: []
+
+
+
+
+#######################################################################
+########################################################################
+## ghlinks
+########################################################################
+########################################################################
+
+
+
+#######################################################################
+########################################################################
+## gllinks
+########################################################################
+########################################################################
+
+
+
+#######################################################################
+########################################################################
+## sflinks
+########################################################################
+########################################################################
 
