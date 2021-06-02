@@ -39,42 +39,42 @@
 "https://haskellweekly.news/podcast.rss":
   name: "Haskell Weekly"
   type: "general"
-  tags: []
+  tags: ["computing", "haskell", ]
 
 "https://itsfoss.com/rss":
   name: "It's FOSS'"
   type: "general"
-  tags: []
+  tags: ["FOSS", ]
 
 "https://lexfridman.com/feed/podcast/":
   name: "Lex Fridman"
   type: "general"
-  tags: []
+  tags: ["programming", "science", "podcast", ]
 
 "https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml":
   name: "Naked Astronomy"
   type: "general"
-  tags: []
+  tags: ["space", "science", "podcast", ]
 
 "https://omgubuntu.co.uk/feed":
   name: "OMG Ubuntu"
   type: "general"
-  tags: []
+  tags: ["linux", ]
 
 "https://rss.art19.com/planetary-radio-space-exploration-astronomy-and-science":
   name: "Planetary Radio"
   type: "general"
-  tags: []
+  tags: ["science", "space", ]
 
 "https://omny.fm/shows/startalk-radio/playlists/podcast.rss":
   name: "StarTalk Radio"
   type: "general"
-  tags: []
+  tags: ["physics", "science", "space", ]
 
 "https://feeds.megaphone.fm/stufftoblowyourmind":
   name: "Stuff To Blow Your Mind"
   type: "general"
-  tags: []
+  tags: ["science", "podcast", ]
 
 "https://feeds.megaphone.fm/stuffyoushouldknow":
   name: "Stuff You Should Know"
@@ -89,17 +89,17 @@
 "https://www.thenakedscientists.com/naked_scientists_podcast.xml":
   name: "The Naked Scientists Podcast"
   type: "general"
-  tags: []
+  tags: ["science", ]
 
 "https://www.numberphile.com/podcast?format=rss":
   name: "The Numberphile"
   type: "general"
-  tags: []
+  tags: ["math", "podcast", ]
 
 "https://stackoverflow.blog/feed/":
   name: "The Stack Overflow Podcast"
   type: "general"
-  tags: []
+  tags: ["programming", "podcast", ]
 
 "https://twimlai.com/feed":
   name: "The TWIML AI Podcast"
@@ -109,22 +109,27 @@
 "https://feeds.megaphone.fm/PP6777513342":
   name: "Think Again - Big Think "
   type: "general"
-  tags: []
+  tags: ["podcast", ]
 
 "https://anchor.fm/s/2346986c/podcast/rss":
   name: "Turing Rabbit Holes"
   type: "general"
-  tags: []
+  tags: ["math", ]
+
+"https://willschenk.com/feed.xml":
+  name: "Will Schenk"
+  type: "general"
+  tags: ["programming", "emacs", ]
 
 "https://www.wired.com/category/science/feed":
   name: "WIRED | Science"
   type: "general"
-  tags: []
+  tags: ["science", ]
 
 "https://news.ycombinator.com/rss":
   name: "Hacker News - ycombinator"
   type: "general"
-  tags: []
+  tags: ["programming", ]
 
 
 #######################################################################
@@ -136,52 +141,87 @@
 "UCEJDM_70A2EiRqZ41l6bZlg":
   name: "100SekundenPhysik"
   type: "youtube"
-  tags: []
+  tags: ["physics", ]
 
 "UCeUJFQ0D9qs6aVNyUt9fkeQ":
   name: "Armchair Historian"
   type: "youtube"
-  tags: []
+  tags: ["history", ]
 
 "UCYO_jab_esuFRV4b17AJtAw":
   name: "3Blue1Brown" 
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCS0N5baNlQWJCUrhCEo8WlA":
   name: "Ben Eater"
   type: "youtube"
-  tags: []
+  tags: ["programming", ]
 
 "UCMz9lmndR0BEqi70kM_ioyA":
   name: "Ben Kadel"
   type: "youtube"
-  tags: []
+  tags: ["programming", "linux", ]
 
 "UCvQECJukTDE2i6aCoMnS-Vg":
   name: "Big Think"
   type: "youtube"
   tags: []
 
+"UCEOGtxYTB6vo6MQ-WQ9W_nQ":
+  name: "Bo Qian"
+  type: "youtube"
+  tags: ["programming", "cpp", ]
+
 "UClIFqsmxnwVNNlsvjH1D1Aw":
   name: "CBT Nuggets"
   type: "youtube"
   tags: []
+
+"UCsyHonfwHi4fLb2lkq0DEAA":
+  name: "ChiliTomatoNoodle"
+  type: "youtube"
+  tags: ["cpp", ]
+
+"UCg6gPGh8HU2U01vaFCAsvmQ":
+  name: "Chris Titus Tech"
+  type: "youtube"
+  tags: ["linux", "networking", ]
 
 "UCl9StMQ79LtEvlrskzjoYbQ":
   name: "Closer To Truth"
   type: "youtube"
   tags: []
 
+"UCl5-BV9aRaeDVohpE4sqJiQ":
+  name: "CodeBeauty"
+  type: "youtube"
+  tags: ["programming", "cpp", ]
+
+"UC4S7Fm5x-WXRCWP6MjK6k2A":
+  name: "Code Smell"
+  type: "youtube"
+  tags: ["linux", ]
+
+"UCgUxdfi_5-m67UDbrgcAFBg":
+  name: "Coding Jesus"
+  type: "youtube"
+  tags: ["cpp", "finance", ]
+
 "UC9-y-6csu5WGm29I7JiwpnA":
   name: "Computerphile"
   type: "youtube"
-  tags: []
+  tags: ["programming", "math", ]
 
 "UCCezIgC97PvUuR4_gbFUs5g":
   name: "Corey Schafer"
   type: "youtube"
-  tags: []
+  tags: ["programming", "python", ]
+
+"UCxHAlbZQNFU2LgEtiqd2Maw":
+  name: "C++ Weekly With Jason Turner"
+  type: "youtube"
+  tags: ["cpp", ]
 
 "UCP7jMXSY2xbc3KCAE0MHQ-A":
   name: "DeepMind"
@@ -191,52 +231,92 @@
 "UCVls1GmFKf6WlTraIb_IaJg":
   name: "DistroTube"
   type: "youtube"
-  tags: []
+  tags: ["linux", "FOSS", ]
 
 "UCxqAWLTk1CmBvZFPzeZMd9A":
   name: "DoS - Domain of Science"
   type: "youtube"
-  tags: []
+  tags: ["science", "math", ]
+
+"UCbxb2fqe9oNgglAoYqsYOtQ":
+  name: "Easy German: Learn German From the Streets!"
+  type: "youtube"
+  tags: ["german", ]
+
+"UCsBjURrPoezykLs9EqgamOA":
+  name: "Fireship"
+  type: "youtube"
+  tags: ["linux", "programming"]
 
 "UCtAIs1VCQrymlAnw3mGonhw":
   name: "Flammable Math"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
+
+"UCv1Kcz-CuGM6mxzL3B1_Eiw":
+  name: "Gardiner Bryant"
+  type: "youtube"
+  tags: ["linux", "FOSS", ]
+
+"UCXPHFM88IlFn68OmLwtPmZA":
+  name: "Greg Hurrell"
+  type: "youtube"
+  tags: ["vim", ]
 
 "UCH4BNI0-FOK2dMXoFtViWHw":
   name: "It's Okay To Be Smart"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCe6ABcJkH_Gso9HJOt4x9fg":
   name: "Jack of Some"
   type: "youtube"
-  tags: []
+  tags: ["programming", ]
+
+"UCbsfyGlrjrKQC0gbzK0-EiA":
+  name: "Jared Owen"
+  type: "youtube"
+  tags: ["science", "edu", ]
+
+"UCf93fPKwotph47H3_KDcRyg":
+  name: " Kris Occhipinti"
+  type: "youtube"
+  tags: ["linux", "networking", ]
 
 "UCsXVk37bltHxD1rDPwtNM8Q":
   name: "Kurzgesagt – In a Nutshell"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
+
+"UCkDicHMdLaJQ3OIly7B6wug":
+  name: "Kyle Broder"
+  type: "youtube"
+  tags: ["math", ]
 
 "UCd0dc7kQA1FUpJ76o1EjLqQ":
   name: "LeiosOS"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCSHZKyawb77ixDdsGog4iWA":
   name: "Lex Fridman"
   type: "youtube"
-  tags: []
+  tags: ["science", "programming", ]
+
+"UClcE-kVhqyiHCcjYwcpfj9w":
+  name: "LiveOverflow"
+  type: "youtube"
+  tags: ["linux", "networking", ]
 
 "UCFk__1iexL3T5gvGcMpeHNA":
   name: "Looking Glass Universe"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UC2eYFnH61tmytImy1mTYvhA":
   name: "Luke Smith"
   type: "youtube"
-  tags: []
+  tags: ["linux", "FOSS", ]
 
 "UCwtNK3_f99g3mqS36OtoO2w":
   name: "Matthew Salomone"
@@ -248,15 +328,20 @@
   type: "youtube"
   tags: []
 
+"UCrlZs71h3mTR45FgQNINfrg":
+  name: "Mathemaniac"
+  type: "youtube"
+  tags: ["math", ]
+
 "UC1_uAIS3r8Vu6JjXWvastJg":
   name: "Mathologer"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCr22xikWUK2yUW4YxOKXclQ":
   name: "MathTheBeautiful"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCaiL2GDNpLYH6Wokkk1VNcg":
   name: "Mcoding"
@@ -266,12 +351,17 @@
 "UCeiYXex_fwgYDonaTcSIk6w":
   name: "MinuteEarth"
   type: "youtube"
-  tags: []
+  tags: ["geology", ]
+
+"UC9x0AN7BWHpCDHSm9NiJFJQ":
+  name: "NetworkChuck"
+  type: "youtube"
+  tags: ["linux", "networking", ]
 
 "UCoxcjq-8xIDTYp3uz647V5A":
   name: "Numberphile"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCTpmmkp1E4nmZqWPS-dl5bg":
   name: "Quanta Magazine"
@@ -281,12 +371,12 @@
 "UCIyDqfi_cbkp-RU20aBF-MQ":
   name: "Richard E. Borcherds"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCR1IuLEqb6UEA_zQ81kwXfg":
   name: "Real Engineering"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCK8XIGR5kRidIw2fWqwyHRA":
   name: "Reducible"
@@ -296,27 +386,27 @@
 "UC1yNl2E66ZzKApQdRuTQ4tw":
   name: "Sabine Hossenfelder"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCcN3IuIAR6Fn74FWMQf6lFA":
   name: "Science ABC"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCrMePiHCWG4Vwqv3t7W9EFg":
   name: "SciShow Space"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCRDDHLvQb8HjE2r7_ZuNtWA":
   name: "Signals Music Studio"
   type: "youtube"
-  tags: []
+  tags: ["music", ]
 
 "UCnxrdFPXJMeHru_b4Q_vTPQ":
   name: "Simply Explained"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCvBqzzvUBLCs8Y7Axb-jZew":
   name: "Sixty Symbols"
@@ -326,37 +416,47 @@
 "UC6107grRI4m0o2-emgoDnAA":
   name: "SmarterEveryday"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCW6TXMZ5Pq6yL6_k5NZ2e0Q":
   name: "Socratica"
   type: "youtube"
-  tags: []
+  tags: ["science", "learn",  ]
 
 "UCSju5G2aFaWMqn-_0YBtq5A":
   name: "Stand-up Maths"
   type: "youtube"
-  tags: []
+  tags: ["math", ]
 
 "UCm5mt-A4w61lknZ9lCsZtBw":
   name: "Steve Brunton"
   type: "youtube"
-  tags: []
+  tags: ["math", "science", "learn", ]
+
+"UCu1lQtQ7SJU27bRlL6hzr9A":
+  name: "Steven Gordon"
+  type: "youtube"
+  tags: ["linux", "networking", ]
 
 "UCEIwxahdLz7bap-VDs9h35A":
   name: "Steve Mould"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
+
+"UCRXRbi80k0_vcIfgpOSerTg":
+  name: "Subject Zero Science"
+  type: "youtube"
+  tags: ["science", ]
 
 "UCAiiOTio8Yu69c3XnR7nQBQ":
   name: "System Crafters"
   type: "youtube"
-  tags: []
+  tags: ["emacs", ]
 
 "UCbmNph6atAoGfqLoCL_duAg":
   name: "Talks at Google"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCjSEJkpGbcZhvo0lr-44X_w":
   name: "TechHut"
@@ -371,57 +471,72 @@
 "UC8ENHE5xdFSwx71u3fDH5Xw":
   name: "ThePrimeagen"
   type: "youtube"
-  tags: []
+  tags: ["linux", "programming", "vim", ]
 
 "UCJbPGzawDH1njbqV-D5HqKw":
   name: "thenewboston"
   type: "youtube"
-  tags: []
+  tags: ["programming", "science", "learn", "cpp", ]
 
 "UCQ-W1KE9EYfdxhL6S4twUNw":
   name: "The Cherno"
   type: "youtube"
-  tags: []
+  tags: ["programming", "cpp", ]
 
 "UCYeF244yNGuFefuFKqxIAXw":
   name: "The Royal Institution"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
+
+"UCx-ljiKQcLSd8_4AFi_yaIw":
+  name: "TJ FREE"
+  type: "youtube"
+  tags: ["FOSS", ]
+
+"UC29ju8bIPH5as8OGnQzwJyA":
+  name: "Traversy Media"
+  type: "youtube"
+  tags: ["web", ]
 
 "UC0I9DSyosaahZ18SwyQbjxw":
   name: "Two Minute Music Theory"
   type: "youtube"
-  tags: []
+  tags: ["music", ]
 
 "UCbfYPyITQ-7l4upoX8nvctg":
   name: "Two Minute Papers"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCSIvk78tK2TiviLQn4fSHaw":
   name: "Up and Atom"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UCHnyfMqiRRG1u-2MsSQLbXA":
   name: "Veritasium"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 "UConVfxXodg78Tzh5nNu85Ew":
   name: "Welch Labs"
   type: "youtube"
-  tags: []
+  tags: ["math", "science", ]
 
 "UC9RM-iSvTu1uPJb8X5yp3EQ":
   name: "Wendover Productions"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
+
+"UCJDIGW0ywWw9Kh9_vtwqxXA":
+  name: "William Spaniel"
+  type: "youtube"
+  tags: ["math", "strategy", ]
 
 "UCftwRNsjfRo08xYE31tkiyw":
   name: "WIRED"
   type: "youtube"
-  tags: []
+  tags: ["science", ]
 
 
 
@@ -446,15 +561,25 @@
   type: "reddit"
   tags: []
 
+"cs50":
+  name: "cs50"
+  type: "reddit"
+  tags: ["compsci", ]
+
 "DoomEmacs":
   name: "DoomEmacs"
   type: "reddit"
   tags: []
 
+"flask":
+  name: "flask"
+  type: "reddit"
+  tags: ["python", ]
+
 "GraphTheory":
   name: "GraphTheory"
   type: "reddit"
-  tags: []
+  tags: ["math", ]
 
 "GraphicsProgramming":
   name: "GraphicsProgramming"
@@ -469,7 +594,7 @@
 "Hacking_Tutorials":
   name: "Hacking_Tutorials"
   type: "reddit"
-  tags: []
+  tags: ["linux", ]
 
 "HowToHack":
   name: "HowToHack"
@@ -494,12 +619,12 @@
 "Learnmusic":
   name: "Learnmusic"
   type: "reddit"
-  tags: []
+  tags: ["music", ]
 
 "LinearAlgebra":
   name: "LinearAlgebra"
   type: "reddit"
-  tags: []
+  tags: ["math", ]
 
 "MachineLearning":
   name: "MachineLearning"
@@ -509,12 +634,12 @@
 "Musescore":
   name: "Musescore"
   type: "reddit"
-  tags: []
+  tags: ["music", ]
 
 "NextCloud":
   name: "NextCloud"
   type: "reddit"
-  tags: []
+  tags: ["FOSS", ]
 
 "Physics":
   name: "Physics"
@@ -529,7 +654,7 @@
 "Python":
   name: "Python"
   type: "reddit"
-  tags: []
+  tags: ["python", ]
 
 "QuantumComputing":
   name: "QuantumComputing"
@@ -539,7 +664,7 @@
 "QuantumPhysics":
   name: "QuantumPhysics"
   type: "reddit"
-  tags: []
+  tags: ["physics", ]
 
 "SQL":
   name: "SQL"
@@ -549,17 +674,17 @@
 "TOR":
   name: "TOR"
   type: "reddit"
-  tags: []
+  tags: ["FOSS", ]
 
 "Ubuntu":
   name: "Ubuntu"
   type: "reddit"
-  tags: []
+  tags: ["linux", ]
 
 "algotrading":
   name: "algotrading"
   type: "reddit"
-  tags: []
+  tags: ["finance", ]
 
 "announcements":
   name: "announcements"
@@ -574,12 +699,12 @@
 "bash":
   name: "bash"
   type: "reddit"
-  tags: []
+  tags: ["linux", ]
 
 "blender":
   name: "blender"
   type: "reddit"
-  tags: []
+  tags: ["FOSS", ]
 
 "cmake":
   name: "cmake"
@@ -589,7 +714,7 @@
 "compsci":
   name: "compsci"
   type: "reddit"
-  tags: []
+  tags: ["compsci", ]
 
 "computerscience":
   name: "computerscience"
@@ -895,6 +1020,10 @@
 ########################################################################
 ########################################################################
 
+"hariprasadr1hp":
+  name: "hariprasadr1hp"
+  type: "github"
+  tags: []
 
 
 #######################################################################
