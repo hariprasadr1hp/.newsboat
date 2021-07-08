@@ -143,15 +143,30 @@
   type: "youtube"
   tags: ["physics", ]
 
+"UCYO_jab_esuFRV4b17AJtAw":
+  name: "3Blue1Brown" 
+  type: "youtube"
+  tags: ["math", "algebra", "calculus", ]
+
+"UC-FlL9LPEipGNgaa1pS7aPg":
+  name: "Advanced LAFF"
+  type: "youtube"
+  tags: ["math", "algebra", ]
+
 "UCeUJFQ0D9qs6aVNyUt9fkeQ":
   name: "Armchair Historian"
   type: "youtube"
   tags: ["history", ]
 
-"UCYO_jab_esuFRV4b17AJtAw":
-  name: "3Blue1Brown" 
+"UCt2NJAAW0Ln0hBpArRF1rpg":
+  name: "Alfonso Gonzalez"
   type: "youtube"
-  tags: ["math", ]
+  tags: ["programming", "python", "physics", "space", ]
+
+"UCBkOVp1Cqz4MR0LYR8vKpZg":
+  name: "ALL ABOUT ELECTRONICS"
+  type: "youtube"
+  tags: ["programming", ]
 
 "UCS0N5baNlQWJCUrhCEo8WlA":
   name: "Ben Eater"
@@ -218,10 +233,20 @@
   type: "youtube"
   tags: ["programming", "python", ]
 
+"UCC-UOdK8-mIjxBQm_ot1T-Q":
+  name: "Cracking The Cryptic"
+  type: "youtube"
+  tags: ["crypto", ]
+
 "UCxHAlbZQNFU2LgEtiqd2Maw":
   name: "C++ Weekly With Jason Turner"
   type: "youtube"
   tags: ["cpp", ]
+
+"UCh86frDjTwrPR5E9ugzQjxQ":
+  name: "Daniel Price"
+  type: "youtube"
+  tags: ["physics", "space", "science", "math", ]
 
 "UCP7jMXSY2xbc3KCAE0MHQ-A":
   name: "DeepMind"
@@ -263,10 +288,20 @@
   type: "youtube"
   tags: ["vim", ]
 
+"UC8C7ncaMYnXyu-pRU0S9FLg":
+  name: "Hilze Vonck"
+  type: "youtube"
+  tags: ["coding", "cpp", ]
+
 "UCH4BNI0-FOK2dMXoFtViWHw":
   name: "It's Okay To Be Smart"
   type: "youtube"
   tags: ["science", ]
+
+"UCDs2s5rZtyFP0yxKbSGLELg":
+  name: "Izabela Vlahu"
+  type: "youtube"
+  tags: ["math", "algebra", ]
 
 "UCe6ABcJkH_Gso9HJOt4x9fg":
   name: "Jack of Some"
@@ -277,6 +312,16 @@
   name: "Jared Owen"
   type: "youtube"
   tags: ["science", "edu", ]
+
+"UCNuchLZjOVafLoIRVU0O14Q":
+  name: "Jonathan David"
+  type: "youtube"
+  tags: ["math", "algebra", ]
+
+"UCa0tJguRNbU6I8OO3nUvXxQ":
+  name: "Josh Branchaud"
+  type: "youtube"
+  tags: ["vim", "linux", ]
 
 "UCf93fPKwotph47H3_KDcRyg":
   name: " Kris Occhipinti"
@@ -302,6 +347,11 @@
   name: "Lex Fridman"
   type: "youtube"
   tags: ["science", "programming", ]
+
+"UCxQKHvKbmSzGMvUrVtJYnUA":
+  name: "LearnLinuxTV"
+  type: "youtube"
+  tags: ["linux", "networking", ]
 
 "UClcE-kVhqyiHCcjYwcpfj9w":
   name: "LiveOverflow"
@@ -353,15 +403,35 @@
   type: "youtube"
   tags: ["geology", ]
 
+"UCQYMhOMi_Cdj1CEAU-fv80A":
+  name: "Neso Academy"
+  type: "youtube"
+  tags: ["networking", "programming", "control" ]
+
 "UC9x0AN7BWHpCDHSm9NiJFJQ":
   name: "NetworkChuck"
   type: "youtube"
   tags: ["linux", "networking", ]
 
+"UCASGBz9CIre1P7MQrOaar-Q":
+  name: "NiLTime"
+  type: "youtube"
+  tags: ["fluids", "mechanics"]
+
 "UCoxcjq-8xIDTYp3uz647V5A":
   name: "Numberphile"
   type: "youtube"
   tags: ["math", ]
+
+"UCVxIDFY01y4n_c2lK1TB-KA":
+  name: "Physics Explained"
+  type: "youtube"
+  tags: ["physics", "math", "science", ]
+
+"UCyxwnZPodqQR0hUo5sapRFw":
+  name: "Physics Matters"
+  type: "youtube"
+  tags: ["physics", "cpp", "computing", ]
 
 "UCTpmmkp1E4nmZqWPS-dl5bg":
   name: "Quanta Magazine"
@@ -397,6 +467,11 @@
   name: "SciShow Space"
   type: "youtube"
   tags: ["science", ]
+
+"UCmtyQOKKmrMVaKuRXz02jbQ":
+  name: "Sebastian Lague"
+  type: "youtube"
+  tags: ["science", "simulation", "programming", ]
 
 "UCRDDHLvQb8HjE2r7_ZuNtWA":
   name: "Signals Music Studio"
@@ -482,6 +557,11 @@
   name: "The Cherno"
   type: "youtube"
   tags: ["programming", "cpp", ]
+
+"UCg8JQhTCcrJ67ixjInoKyPQ":
+  name: "Theo Ong"
+  type: "youtube"
+  tags: ["openfoam", "scientific", "computation", ]
 
 "UCYeF244yNGuFefuFKqxIAXw":
   name: "The Royal Institution"
@@ -734,12 +814,12 @@
 "crypto":
   name: "crypto"
   type: "reddit"
-  tags: []
+  tags: ["crypto", ]
 
 "cryptography":
   name: "cryptography"
   type: "reddit"
-  tags: []
+  tags: ["crypto", ]
 
 "cyber_security":
   name: "cyber_security"
