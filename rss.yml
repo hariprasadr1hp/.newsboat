@@ -198,6 +198,11 @@
   type: "youtube"
   tags: ["cpp", ]
 
+"UCfV36TX5AejfAGIbtwTc7Zw":
+  name: "Chris Hawkes"
+  type: "youtube"
+  tags: ["programming", "web", ]
+
 "UCg6gPGh8HU2U01vaFCAsvmQ":
   name: "Chris Titus Tech"
   type: "youtube"
@@ -398,15 +403,20 @@
   type: "youtube"
   tags: []
 
+"UC6jM0RFkr4eSkzT5Gx0HOAw":
+  name: "Michael Penn"
+  type: "youtube"
+  tags: ["math", "numbers", ]
+
 "UCeiYXex_fwgYDonaTcSIk6w":
   name: "MinuteEarth"
   type: "youtube"
   tags: ["geology", ]
 
-"UCQYMhOMi_Cdj1CEAU-fv80A":
-  name: "Neso Academy"
+"UClEEsT7DkdVO_fkrBw0OTrA":
+  name: "Mycodescheool"
   type: "youtube"
-  tags: ["networking", "programming", "control" ]
+  tags: ["programming", "coding", "cpp", ]
 
 "UC9x0AN7BWHpCDHSm9NiJFJQ":
   name: "NetworkChuck"
