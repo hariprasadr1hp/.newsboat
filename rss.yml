@@ -66,6 +66,11 @@
   type: "general"
   tags: ["science", "space", ]
 
+"https://softwareengineeringdaily.com/category/podcast/feed":
+  name: "Software Engineering Daily"
+  type: "general"
+  tags: ["programming", ]
+
 "https://omny.fm/shows/startalk-radio/playlists/podcast.rss":
   name: "StarTalk Radio"
   type: "general"
@@ -153,11 +158,6 @@
   type: "youtube"
   tags: ["math", "algebra", ]
 
-"UCeUJFQ0D9qs6aVNyUt9fkeQ":
-  name: "Armchair Historian"
-  type: "youtube"
-  tags: ["history", ]
-
 "UCt2NJAAW0Ln0hBpArRF1rpg":
   name: "Alfonso Gonzalez"
   type: "youtube"
@@ -167,6 +167,16 @@
   name: "ALL ABOUT ELECTRONICS"
   type: "youtube"
   tags: ["programming", ]
+
+"UC46xhU1EH7aywEgvA9syS3w":
+  name: "Anthonywritescode"
+  type: "youtube"
+  tags: ["programming", "python", ]
+
+"UCeUJFQ0D9qs6aVNyUt9fkeQ":
+  name: "Armchair Historian"
+  type: "youtube"
+  tags: ["history", ]
 
 "UCS0N5baNlQWJCUrhCEo8WlA":
   name: "Ben Eater"
@@ -181,7 +191,7 @@
 "UCvQECJukTDE2i6aCoMnS-Vg":
   name: "Big Think"
   type: "youtube"
-  tags: []
+  tags: ["consciousness", ]
 
 "UCEOGtxYTB6vo6MQ-WQ9W_nQ":
   name: "Bo Qian"
@@ -191,7 +201,7 @@
 "UClIFqsmxnwVNNlsvjH1D1Aw":
   name: "CBT Nuggets"
   type: "youtube"
-  tags: []
+  tags: ["IT", "computing", ]
 
 "UCsyHonfwHi4fLb2lkq0DEAA":
   name: "ChiliTomatoNoodle"
@@ -211,7 +221,7 @@
 "UCl9StMQ79LtEvlrskzjoYbQ":
   name: "Closer To Truth"
   type: "youtube"
-  tags: []
+  tags: ["cosmos", "consciousness", ]
 
 "UCl5-BV9aRaeDVohpE4sqJiQ":
   name: "CodeBeauty"
@@ -243,6 +253,11 @@
   type: "youtube"
   tags: ["crypto", ]
 
+"UCDuQsPzfqxcYKVp_uuKCzqw":
+  name: "Cyprian Rusu"
+  type: "youtube"
+  tags: ["FEM", "openfoam", "paraview", ]
+
 "UCxHAlbZQNFU2LgEtiqd2Maw":
   name: "C++ Weekly With Jason Turner"
   type: "youtube"
@@ -256,7 +271,7 @@
 "UCP7jMXSY2xbc3KCAE0MHQ-A":
   name: "DeepMind"
   type: "youtube"
-  tags: []
+  tags: ["ML", "AI", ]
 
 "UCVls1GmFKf6WlTraIb_IaJg":
   name: "DistroTube"
@@ -297,6 +312,11 @@
   name: "Hilze Vonck"
   type: "youtube"
   tags: ["coding", "cpp", ]
+
+"UC_ML5xP23TOWKUcc-oAE_Eg":
+  name: "Hussein Nasser"
+  type: "youtube"
+  tags: ["coding", "sql", "server", ]
 
 "UCH4BNI0-FOK2dMXoFtViWHw":
   name: "It's Okay To Be Smart"
@@ -376,12 +396,7 @@
 "UCwtNK3_f99g3mqS36OtoO2w":
   name: "Matthew Salomone"
   type: "youtube"
-  tags: []
-
-"UCHaF9kM2wn8C3CLRwLkC2GQ":
-  name: "Matt Williams"
-  type: "youtube"
-  tags: []
+  tags: ["math", "knots", ]
 
 "UCrlZs71h3mTR45FgQNINfrg":
   name: "Mathemaniac"
@@ -401,7 +416,7 @@
 "UCaiL2GDNpLYH6Wokkk1VNcg":
   name: "Mcoding"
   type: "youtube"
-  tags: []
+  tags: ["math", "python", "cpp", ]
 
 "UC6jM0RFkr4eSkzT5Gx0HOAw":
   name: "Michael Penn"
@@ -443,10 +458,15 @@
   type: "youtube"
   tags: ["physics", "cpp", "computing", ]
 
+"UCW56A8WoTPmWEL4LyJCEuJw":
+  name: "PyTech Vision"
+  type: "youtube"
+  tags: ["python", ]
+
 "UCTpmmkp1E4nmZqWPS-dl5bg":
   name: "Quanta Magazine"
   type: "youtube"
-  tags: []
+  tags: ["science", "math"]
 
 "UCIyDqfi_cbkp-RU20aBF-MQ":
   name: "Richard E. Borcherds"
@@ -461,12 +481,17 @@
 "UCK8XIGR5kRidIw2fWqwyHRA":
   name: "Reducible"
   type: "youtube"
-  tags: []
+  tags: ["computing", ]
 
 "UC1yNl2E66ZzKApQdRuTQ4tw":
   name: "Sabine Hossenfelder"
   type: "youtube"
-  tags: ["science", ]
+  tags: ["science", "quantum", "space", ]
+
+"UCVhTzRhdn2X1iz3-uG7nXWA":
+  name: "Schuster Engineering"
+  type: "youtube"
+  tags: ["FEM", ]
 
 "UCcN3IuIAR6Fn74FWMQf6lFA":
   name: "Science ABC"
@@ -496,7 +521,7 @@
 "UCvBqzzvUBLCs8Y7Axb-jZew":
   name: "Sixty Symbols"
   type: "youtube"
-  tags: []
+  tags: ["physics", "space", "science", ]
 
 "UC6107grRI4m0o2-emgoDnAA":
   name: "SmarterEveryday"
@@ -546,12 +571,12 @@
 "UCjSEJkpGbcZhvo0lr-44X_w":
   name: "TechHut"
   type: "youtube"
-  tags: []
+  tags: ["linux", ]
 
 "UCBsuOBu-dxj5bx1KMgmar5g":
   name: "TheHappyCat"
   type: "youtube"
-  tags: []
+  tags: ["algorithms", ]
 
 "UC8ENHE5xdFSwx71u3fDH5Xw":
   name: "ThePrimeagen"
@@ -602,6 +627,11 @@
   name: "Up and Atom"
   type: "youtube"
   tags: ["science", ]
+
+"UCZPFjMe1uRSirmSpznqvJfQ":
+  name: "Valerio Velardo - The Sound of AI"
+  type: "youtube"
+  tags: ["AI", "ML", "music", "python", ]
 
 "UCHnyfMqiRRG1u-2MsSQLbXA":
   name: "Veritasium"
