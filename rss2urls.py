@@ -76,7 +76,7 @@ def main():
 if __name__ == "__main__":
     if len(sys.argv) == 1:
         yml_file = "./rss.yml"
-        yml_file = os.path.join(os.environ['HOME'], ".newsboat/rss.yml")
+        yml_file = os.path.join(os.environ['HOME'], ".config/newsboat/rss.yml")
     elif len(sys.argv) == 2:
         yml_file = sys.argv[1]
     else:
