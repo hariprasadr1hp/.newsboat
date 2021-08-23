@@ -308,6 +308,16 @@
   type: "youtube"
   tags: ["vim", ]
 
+"UCOf7UPMHBjAavgD0Qw5q5ww":
+  name: "HackerRank"
+  type: "youtube"
+  tags: ["coding", "algorithms", ]
+
+"UC0ZTPkdxlAKf-V33tqXwi3Q":
+  name: "HackerSploit"
+  type: "youtube"
+  tags: ["coding", "linux", "security", ]
+
 "UC8C7ncaMYnXyu-pRU0S9FLg":
   name: "Hilze Vonck"
   type: "youtube"
@@ -348,10 +358,20 @@
   type: "youtube"
   tags: ["vim", "linux", ]
 
+"UCP2bshADPrVMoNrdJvZEQzw":
+  name: " KeepitTechie"
+  type: "youtube"
+  tags: ["linux", "networking", "sql", ]
+
 "UCf93fPKwotph47H3_KDcRyg":
   name: " Kris Occhipinti"
   type: "youtube"
   tags: ["linux", "networking", ]
+
+"UCiqnRXPAAk6iv2m47odUFzw":
+  name: "Kubucation"
+  type: "youtube"
+  tags: ["linux", "docker", "coding", "kubernetes", "go", ]
 
 "UCsXVk37bltHxD1rDPwtNM8Q":
   name: "Kurzgesagt – In a Nutshell"
@@ -477,6 +497,11 @@
   name: "Real Engineering"
   type: "youtube"
   tags: ["science", ]
+
+"UCI0vQvr9aFn27yR6Ej6n5UA":
+  name: "Real Python"
+  type: "youtube"
+  tags: ["python", "coding", ]
 
 "UCK8XIGR5kRidIw2fWqwyHRA":
   name: "Reducible"
